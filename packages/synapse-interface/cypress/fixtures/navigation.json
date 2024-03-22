@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "About",
+    "Bridge",
+    "Swap",
+    "Pools",
+    "Stake",
+    "Explorer",
+    "Contracts"
+  ]
+}
